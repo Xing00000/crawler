@@ -1,0 +1,15 @@
+---
+its.taipei.gov.tw:
+  "/":
+    ASP.NET_SessionId: !ruby/object:Mechanize::Cookie
+      name: ASP.NET_SessionId
+      value: gznlxlbx2ux3rzn1m4sfwqb1
+      domain: its.taipei.gov.tw
+      for_domain: false
+      path: "/"
+      secure: false
+      httponly: false
+      expires: 
+      max_age: 
+      created_at: &1 2016-08-05 20:15:24.005489484 +08:00
+      accessed_at: *1
